@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ralpizar\\source\\repos\\Examen1_3C\\Examen1_3C.csproj": {}
+    "C:\\Users\\USUARIO\\source\\repos\\Universidad-Polictenica-Internacional\\roy_duran\\Examen1_3C\\Examen1_3C.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ralpizar\\source\\repos\\Examen1_3C\\Examen1_3C.csproj": {
+    "C:\\Users\\USUARIO\\source\\repos\\Universidad-Polictenica-Internacional\\roy_duran\\Examen1_3C\\Examen1_3C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ralpizar\\source\\repos\\Examen1_3C\\Examen1_3C.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\Universidad-Polictenica-Internacional\\roy_duran\\Examen1_3C\\Examen1_3C.csproj",
         "projectName": "Examen1_3C",
-        "projectPath": "C:\\Users\\ralpizar\\source\\repos\\Examen1_3C\\Examen1_3C.csproj",
-        "packagesPath": "C:\\Users\\ralpizar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ralpizar\\source\\repos\\Examen1_3C\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Universidad-Polictenica-Internacional\\roy_duran\\Examen1_3C\\Examen1_3C.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\Universidad-Polictenica-Internacional\\roy_duran\\Examen1_3C\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ralpizar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

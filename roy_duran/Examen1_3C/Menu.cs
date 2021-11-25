@@ -13,8 +13,8 @@ namespace Examen1_3C
             int opcion = -1;
             do
             {
-                Console.WriteLine("*****MENU PRINCIPAL*****");
-                Console.WriteLine("========================");
+                Console.WriteLine("*****MENU PRINCIPAL******");
+                Console.WriteLine("=========================");
                 Console.WriteLine(" 1- Inicializar arreglos");
                 Console.WriteLine(" 2- Realizar pago");
                 Console.WriteLine(" 3- Consultar pagos");
@@ -22,7 +22,7 @@ namespace Examen1_3C
                 Console.WriteLine(" 5- Eliminar pagos");
                 Console.WriteLine(" 6- Reporte pagos");
                 Console.WriteLine(" 7- Salir");
-                Console.WriteLine("=========================");
+                Console.WriteLine("==========================");
                 Console.WriteLine("");
                 Console.WriteLine("Digite una opcion:" + (opcion = (int.Parse(Console.ReadLine()))));
                 switch (opcion)
