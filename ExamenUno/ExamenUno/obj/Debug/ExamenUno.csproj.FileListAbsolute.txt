@@ -1,0 +1,7 @@
+C:\Users\Personal\source\repos\ExamenUno\ExamenUno\bin\Debug\ExamenUno.exe.config
+C:\Users\Personal\source\repos\ExamenUno\ExamenUno\bin\Debug\ExamenUno.exe
+C:\Users\Personal\source\repos\ExamenUno\ExamenUno\bin\Debug\ExamenUno.pdb
+C:\Users\Personal\source\repos\ExamenUno\ExamenUno\obj\Debug\ExamenUno.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\ExamenUno\ExamenUno\obj\Debug\ExamenUno.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\ExamenUno\ExamenUno\obj\Debug\ExamenUno.exe
+C:\Users\Personal\source\repos\ExamenUno\ExamenUno\obj\Debug\ExamenUno.pdb

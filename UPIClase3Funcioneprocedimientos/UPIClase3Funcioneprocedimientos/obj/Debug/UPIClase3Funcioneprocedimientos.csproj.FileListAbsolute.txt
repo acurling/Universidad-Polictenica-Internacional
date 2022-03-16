@@ -1,7 +1,0 @@
-C:\Users\CURLING\source\repos\UPIClase3Funcioneprocedimientos\UPIClase3Funcioneprocedimientos\bin\Debug\UPIClase3Funcioneprocedimientos.exe.config
-C:\Users\CURLING\source\repos\UPIClase3Funcioneprocedimientos\UPIClase3Funcioneprocedimientos\bin\Debug\UPIClase3Funcioneprocedimientos.exe
-C:\Users\CURLING\source\repos\UPIClase3Funcioneprocedimientos\UPIClase3Funcioneprocedimientos\bin\Debug\UPIClase3Funcioneprocedimientos.pdb
-C:\Users\CURLING\source\repos\UPIClase3Funcioneprocedimientos\UPIClase3Funcioneprocedimientos\obj\Debug\UPIClase3Funcioneprocedimientos.csproj.AssemblyReference.cache
-C:\Users\CURLING\source\repos\UPIClase3Funcioneprocedimientos\UPIClase3Funcioneprocedimientos\obj\Debug\UPIClase3Funcioneprocedimientos.csproj.CoreCompileInputs.cache
-C:\Users\CURLING\source\repos\UPIClase3Funcioneprocedimientos\UPIClase3Funcioneprocedimientos\obj\Debug\UPIClase3Funcioneprocedimientos.exe
-C:\Users\CURLING\source\repos\UPIClase3Funcioneprocedimientos\UPIClase3Funcioneprocedimientos\obj\Debug\UPIClase3Funcioneprocedimientos.pdb
